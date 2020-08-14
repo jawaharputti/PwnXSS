@@ -22,7 +22,7 @@ pip install requests
 Commands:
 
 ```bash
-git clone https://github.com/pwn0sec/PwnXSS
+git clone https://github.com/jawaharputti/PwnXSS.git
 chmod 755 -R PwnXSS
 cd PwnXSS
 python3 pwnxss.py --help 
@@ -74,8 +74,4 @@ v0.5 Release (Final):
 ------
 * Bug fixed
 * Now cookies is supported. (--cookie {}) 
-## Note
-* Sorry for my bad english 
-* if you run pwnxss on the win10 terminal you will get an untidy output
-* now it doesn't support DOM
 
